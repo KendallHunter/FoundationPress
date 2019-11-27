@@ -1,0 +1,13 @@
+Hello, I've been chatting with Bluehost, going in circles. I seem to have a corrupted file and have lost graphics on my homepage. I am not the 
+person who set up the site and hope I can provide enough info to get some assistance. They are telling me to contact you
+because there is a problem with the theme. URL: https://culturedock.com/
+
+Error log shows:[27-Nov-2019 16:31:06 UTC] PHP Fatal error: Uncaught Error: Call to undefined function the_field() in /home/cultuso9/public_html/wp-content/themes/FoundationPress-master/page-home.php:9 Stack trace: #0 /home/cultuso9/public_html/wp-includes/template-loader.php(98): include() #1 /home/cultuso9/public_html/wp-blog-header.php(19): require_once('/home/cultuso9/...') #2 /home/cultuso9/public_html/index.php(17): require('/home/cultuso9/...') #3 {main} thrown in /home/cultuso9/public_html/wp-content/themes/FoundationPress-master/page-home.php on line 9
+
+
+This file seems to be corrupted. /home/cultuso9/public_html/wp-content/themes/FoundationPress-master/page-home.php 
+
+Bluehost support is telling me to:
+Please ask the theme provider to provide the same file and try replace it. Aslo, ask them the exact php version suite for the theme. 
+
+Thank-you. 
